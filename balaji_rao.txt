@@ -1,0 +1,8 @@
+Balaji Rao
+Research Areas: Computer Vision, Deep Learning
+Selected Publications:
+- Rao B., Efficient CNNs, 2023
+- Rao B., Self-supervised Vision, 2022
+Workload: 4 active projects
+
+Profile: Balaji studies representation learning for images and efficient architectures.

@@ -1,0 +1,8 @@
+Charu Nair
+Research Areas: Cybersecurity, Privacy-preserving ML
+Selected Publications:
+- Nair C., Privacy in Federated Learning, 2021
+- Nair C., Adversarial Attacks, 2020
+Workload: 3 active projects
+
+Profile: Charu focuses on privacy, secure ML, and adversarial robustness.

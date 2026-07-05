@@ -1,0 +1,6 @@
+chromadb>=0.4.0
+sentence-transformers>=2.2.2
+numpy
+scikit-learn
+requests
+click

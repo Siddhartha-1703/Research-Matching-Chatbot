@@ -1,0 +1,8 @@
+Jayesh Mehra
+Research Areas: Reinforcement Learning, Robotics
+Selected Publications:
+- Mehra J., Safe RL, 2021
+- Mehra J., RL for Robotic Control, 2020
+Workload: 1 active project
+
+Profile: Jayesh explores reinforcement learning for control and safety in robotics.

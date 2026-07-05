@@ -1,0 +1,8 @@
+Dinesh Khan
+Research Areas: Internet of Things, Edge Computing
+Selected Publications:
+- Khan D., Edge Scheduling, 2020
+- Khan D., IoT Security, 2019
+Workload: 1 active project
+
+Profile: Dinesh's work centers on edge systems, low-latency computing, and IoT protocols.

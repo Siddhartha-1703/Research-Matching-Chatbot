@@ -1,0 +1,8 @@
+Harish Patel
+Research Areas: Machine Learning Systems, MLOps
+Selected Publications:
+- Patel H., Efficient Model Serving, 2023
+- Patel H., Reproducible Pipelines, 2021
+Workload: 2 active projects
+
+Profile: Harish focuses on production ML systems, pipelines, and scaling.

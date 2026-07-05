@@ -1,0 +1,8 @@
+Esha Iyer
+Research Areas: Data Mining, Recommender Systems
+Selected Publications:
+- Iyer E., Graph-based Recs, 2022
+- Iyer E., Scalable Clustering, 2021
+Workload: 2 active projects
+
+Profile: Esha studies personalization, graph mining, and scalable algorithms for recommender systems.

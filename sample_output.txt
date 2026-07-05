@@ -1,0 +1,27 @@
+Loaded profiles: 10
+
+Query: computer vision
+1. Balaji Rao - score: 0.384 - areas: Computer Vision, Deep Learning
+2. Harish Patel - score: 0.204 - areas: Machine Learning Systems, MLOps
+3. Jayesh Mehra - score: 0.170 - areas: Reinforcement Learning, Robotics
+
+Query: natural language processing
+1. Faizal Gupta - score: 0.387 - areas: Natural Language Processing, Explainable AI
+2. Aishwarya Sharma - score: 0.371 - areas: Natural Language Processing, Information Retrieval
+3. Isha Kapoor - score: 0.167 - areas: Graph Neural Networks, Data Mining
+
+Query: robotics
+1. Jayesh Mehra - score: 0.478 - areas: Reinforcement Learning, Robotics
+2. Balaji Rao - score: 0.273 - areas: Computer Vision, Deep Learning
+3. Harish Patel - score: 0.236 - areas: Machine Learning Systems, MLOps
+
+Query: machine learning
+1. Harish Patel - score: 0.470 - areas: Machine Learning Systems, MLOps
+2. Isha Kapoor - score: 0.307 - areas: Graph Neural Networks, Data Mining
+3. Aishwarya Sharma - score: 0.306 - areas: Natural Language Processing, Information Retrieval
+
+Trend query: trends in computer vision
+- No live result for "trends in computer vision" (Tavily mock)
+
+Trend query: latest NLP research
+- No live result for "latest NLP research" (Tavily mock)

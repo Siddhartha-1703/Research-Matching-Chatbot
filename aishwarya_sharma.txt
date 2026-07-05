@@ -1,0 +1,8 @@
+Aishwarya Sharma
+Research Areas: Natural Language Processing, Information Retrieval
+Selected Publications:
+- Sharma A., Neural Retrieval for QA, 2022
+- Sharma A., Low-resource NER, 2021
+Workload: 2 active projects
+
+Profile: Aishwarya works on retrieval-augmented models, question answering, and low-resource NLP.

@@ -1,0 +1,8 @@
+Isha Kapoor
+Research Areas: Graph Neural Networks, Data Mining
+Selected Publications:
+- Kapoor I., GNNs for Chemistry, 2022
+- Kapoor I., Subgraph Mining, 2020
+Workload: 3 active projects
+
+Profile: Isha works on graph learning methods, applications in chemistry and biology.

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "research-matcher"
+version = "0.1.0b0"
+description = "Terminal-first research matching chatbot (beta)"
+authors = [ { name="Dev", email="dev@example.com" } ]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "chromadb>=0.4.0",
+    "sentence-transformers>=2.2.2",
+    "numpy",
+    "scikit-learn",
+    "requests",
+    "click",
+]

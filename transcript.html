@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Research Matcher Demo Transcript</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background:#f7f7f7 }
+    pre { background: #fff; padding: 16px; border: 1px solid #ddd; overflow:auto }
+    h1 { font-size: 18px }
+  </style>
+</head>
+<body>
+  <h1>Demo Conversation Transcript</h1>
+  <pre>
+[SYSTEM]: Select Mode: (1) Student (2) Professor
+> 2
+
+[AGENT]: Welcome to Professor Mode. I can assist with trend analysis, gap identification, and finding collaboration partners. How can I help you today?
+> What's trending in Computer Vision?
+
+[AGENT]: Querying Semantic Scholar for current Computer Vision trends...
+The dominant trends currently involve a shift toward Vision Transformers (ViTs) and generative diffusion models.
+Top recent papers:
+- "Mock paper about computer vision #1" - 2024 - 10 Citations.
+- "Mock paper about computer vision #2" - 2024 - 9 Citations.
+
+> Who works on this in our dept?
+
+[AGENT]: Cross-referencing trends with internal ChromaDB profiles...
+- Balaji Rao works on Computer Vision, Deep Learning (Closest match).
+- Harish Patel works on Machine Learning Systems, MLOps (Closest match).
+- Jayesh Mehra works on Reinforcement Learning, Robotics (Closest match).
+
+> Could I collaborate with Dr. Balaji Rao on generative diffusion for medical imaging? (Assume User is Prof. Rajesh Verma)
+
+[AGENT]: Running Collaboration Synergy Analysis...
+- Your Profile (Prof. Verma): Expert in generative media and diffusion models.
+- Balaji Rao's Profile: Computer Vision, Deep Learning
+- Synergy Match: HIGH. Suggested collaborators:
+  - Jayesh Mehra (Reinforcement Learning, Robotics) — score: 0.40, workload: 1
+  - Harish Patel (Machine Learning Systems, MLOps) — score: 0.40, workload: 2
+  - Gitanjali Verma (Human-Computer Interaction, Accessibility) — score: 0.39, workload: 1
+
+> What are we missing?
+
+[AGENT]: Running Gap Analysis (Trending Research vs. Internal Coverage)...
+1. Trend Identified: Vision Transformers (ViTs) for real-time edge deployment.
+2. Internal Coverage: some edge detection and IoT work, but few ViT-focused projects.
+3. Gap: The department currently lacks active research explicitly applying Vision Transformer architectures to resource-constrained environments.
+
+Would you like me to draft an email to propose collaboration? (Yes/No)
+> No, just save the gap analysis to my workspace.
+
+[AGENT]: Confirmed. The gap analysis regarding Vision Transformers has been saved to your workspace.
+
+
+[SYSTEM]: Select Mode: (1) Student (2) Professor
+> 1
+
+[AGENT]: Hello! I can help you find a faculty project guide and brainstorm project ideas. What research area or topic are you interested in?
+> Who works on NLP?
+
+[AGENT]: Searching faculty database for "NLP"...
+I found 2 faculty members matching your interest in Natural Language Processing:
+1. Faizal Gupta (Match Score: 39%) - Focus: Natural Language Processing, Explainable AI
+2. Aishwarya Sharma (Match Score: 37%) - Focus: Natural Language Processing, Information Retrieval
+
+> Tell me about Faizal Gupta
+
+[AGENT]: Fetching details for Faizal Gupta...
+- Department: Computer Science and Engineering
+- Research Areas: Natural Language Processing, Explainable AI
+- Current Workload: 0 student projects this semester.
+- Bio: Profile: Faizal is interested in explainability for large language models and interpretability techniques.
+
+> What project could I do?
+
+[AGENT]: Based on Faizal Gupta's profile and current trends, here are two project ideas:
+1. Low-Resource Language LLM Evaluation: Build a framework to test the accuracy of a small language model on a regional language.
+2. Sentiment Bias Detector: Create a tool that analyzes domain-specific text to identify bias.
+
+Would you like me to log your interest in "Low-Resource Language LLM Evaluation" under Faizal Gupta and save this to your profile? (Yes/No)
+> Yes
+
+[AGENT]: Confirmed. I have logged your interest in this project with Faizal Gupta.
+  </pre>
+</body>
+</html>
